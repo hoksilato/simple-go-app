@@ -1,9 +1,9 @@
 package main
 
 import (
-	"deploy-go/handlers"
 	"log"
 	"net/http"
+	"simple-go-app/handlers"
 
 	"github.com/go-chi/chi"
 )

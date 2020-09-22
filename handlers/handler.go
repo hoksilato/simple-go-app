@@ -1,9 +1,9 @@
 package handlers
 
 import (
-	"deploy-go/models"
 	"encoding/json"
 	"net/http"
+	"simple-go-app/models"
 )
 
 // GetJobs fetchs all the jobs
